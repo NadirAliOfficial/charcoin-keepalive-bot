@@ -12,4 +12,3 @@ If no activity is detected within 24h, the bot automatically performs a **tiny b
 - Prevents graphs & data in the DAPP from collapsing
 <!-- updated: 2026-06-18 -->
 
-
