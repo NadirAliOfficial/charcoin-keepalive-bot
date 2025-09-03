@@ -1,13 +1,9 @@
-# bot.py
-# CharCoin Keep-Alive Bot (Dexscreener + Jupiter v6)
-# Using solders for transaction handling
-
 import os, time, base64
 from datetime import datetime, timedelta, timezone
 from typing import Dict, Any, Optional, List, Tuple
 import requests
 
-# --- Optional: load .env ---
+# -- load .env ---
 try:
     from dotenv import load_dotenv
     load_dotenv()
