@@ -1,2 +1,13 @@
-# charcoin-keepalive-bot
-A lightweight Python bot that ensures CharCoin always stays active on Dexscreener by automatically executing a tiny ($0.50–$1.00) daily buy if no transactions occur in the past 24 hours. Prevents graphs and API data in the DAPP from disappearing without relying on costly third-party APIs like Birdeye.
+
+# CharCoin Keep-Alive Bot
+
+This bot keeps **CharCoin (CHAR)** visible on [Dexscreener](https://dexscreener.com) by ensuring at least one trade happens every 24 hours.  
+If no activity is detected within 23.5h, the bot automatically performs a **tiny buy ($0.50–$1.00)** via Jupiter on Solana.  
+
+## ✨ Features
+- Checks Dexscreener API for CHAR trades in the past 24h  
+- If no trades → executes a micro-buy using your Solana wallet  
+- Configurable buy amount, slippage, and check interval  
+- Uses **Dexscreener free API** + **Jupiter swap API** (no extra cost)  
+- Prevents graphs & data in the DAPP from collapsing  
+
