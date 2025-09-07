@@ -1,0 +1,20 @@
+2025-09-03 22:11:43,930 [INFO] CharCoin keep-alive bot | TEST_MODE=False DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-03 22:11:43,930 [INFO] Using bucket: h24 (prod) | Interval=60s
+2025-09-03 22:12:04,253 [INFO] CharCoin keep-alive bot | TEST_MODE=False DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-03 22:12:04,253 [INFO] Using bucket: h24 (prod) | Interval=60s
+2025-09-03 22:12:04,816 [INFO] Wallet balance: 0.196847 SOL
+2025-09-03 22:12:05,523 [INFO] Activity check window=1440m -> OK
+2025-09-03 22:12:05,523 [INFO] Activity OK — no buy.
+2025-09-03 22:14:51,678 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-03 22:14:51,678 [INFO] Using bucket: m5 (~5m test) | Interval=60s
+2025-09-03 22:14:52,249 [INFO] Wallet balance: 0.196847 SOL
+2025-09-03 22:14:52,697 [INFO] Activity check window=1m -> INACTIVE
+2025-09-03 22:14:52,697 [WARNING] Inactive — trying $0.01
+2025-09-03 22:14:53,107 [INFO] Requesting swap quote input_amount_raw=9992 slippage_bps=500
+2025-09-03 22:14:54,069 [INFO] Swap sent: 4Yr1Jz9zLBct753kxyfEeXXKJqkh83jG7icrwoJ6bCrnJCZ7BC1ahzvnqvbxLcndvJP4thu2Qa4euxeRNGJEQvUn
+2025-09-03 22:14:54,070 [INFO] Recorded spend $0.01; last24h total=$0.01
+2025-09-03 22:14:54,070 [WARNING] [BUY] success 4Yr1Jz9zLBct753kxyfEeXXKJqkh83jG7icrwoJ6bCrnJCZ7BC1ahzvnqvbxLcndvJP4thu2Qa4euxeRNGJEQvUn
+2025-09-03 22:15:54,523 [INFO] Activity check window=1m -> OK
+2025-09-03 22:15:54,523 [INFO] Activity OK — no buy.
+2025-09-03 22:16:55,082 [INFO] Activity check window=1m -> OK
+2025-09-03 22:16:55,082 [INFO] Activity OK — no buy.

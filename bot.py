@@ -263,7 +263,8 @@ def do_keepalive_once(usd_amount: float) -> str:
 
 def main_loop():
     logger.info(f"CharCoin keep-alive bot | TEST_MODE={TEST_MODE} DRY_RUN={DRY_RUN} FORCE_BUY_NOW={FORCE_BUY_NOW}")
-    logger.info(f"Using bucket: {'m5 (~5m test)' if TEST_MODE else 'h24 (prod)'} | Interval={CHECK_INTERVAL_SECONDS}s")
+    logger.info(f"Running fixed schedule: every 21 hours")
+
     ensure_wallet_ready()
 
     if FORCE_BUY_NOW:
@@ -276,25 +277,25 @@ def main_loop():
 
     while True:
         try:
-            if activity_ok():
-                logger.info("Activity OK — no buy.")
-            else:
-                logger.warning(f"Inactive — trying ${MICRO_BUY_USD:.2f}")
-                try:
-                    sig = do_keepalive_once(MICRO_BUY_USD)
-                    logger.warning(f"[BUY] success {sig}")
-                except Exception as e:
-                    logger.error(f"[BUY] primary failed: {e}")
-                    if MICRO_BUY_USD < FALLBACK_BUY_USD and can_spend_usd(FALLBACK_BUY_USD):
-                        try:
-                            logger.warning(f"[BUY] retrying fallback ${FALLBACK_BUY_USD:.2f}")
-                            sig = do_keepalive_once(FALLBACK_BUY_USD)
-                            logger.warning(f"[BUY] fallback success {sig}")
-                        except Exception as e2:
-                            logger.error(f"[BUY] fallback failed: {e2}")
+            logger.info(f"Scheduled buy attempt: ${MICRO_BUY_USD:.2f}")
+            try:
+                sig = do_keepalive_once(MICRO_BUY_USD)
+                logger.warning(f"[BUY] success {sig}")
+            except Exception as e:
+                logger.error(f"[BUY] primary failed: {e}")
+                if MICRO_BUY_USD < FALLBACK_BUY_USD and can_spend_usd(FALLBACK_BUY_USD):
+                    try:
+                        logger.warning(f"[BUY] retrying fallback ${FALLBACK_BUY_USD:.2f}")
+                        sig = do_keepalive_once(FALLBACK_BUY_USD)
+                        logger.warning(f"[BUY] fallback success {sig}")
+                    except Exception as e2:
+                        logger.error(f"[BUY] fallback failed: {e2}")
         except Exception as e:
             logger.exception(f"[LOOP ERROR] {e}")
-        time.sleep(CHECK_INTERVAL_SECONDS)
+
+        # Sleep for 21 hours
+        time.sleep(21 * 3600)
+
 
 if __name__ == "__main__":
     main_loop()

@@ -1,0 +1,445 @@
+2025-09-05 22:28:53,482 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-05 22:28:53,482 [INFO] Using bucket: m5 (~5m test) | Interval=60s
+2025-09-06 05:34:58,310 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-06 05:34:58,311 [INFO] Using bucket: m5 (~5m test) | Interval=60s
+2025-09-06 05:34:59,155 [INFO] Wallet balance: 0.020706 SOL
+2025-09-06 05:34:59,755 [INFO] Activity check window=1m -> INACTIVE
+2025-09-06 05:34:59,756 [WARNING] Inactive — trying $0.01
+2025-09-06 05:35:00,955 [INFO] Requesting swap quote input_amount_raw=9994 slippage_bps=500
+2025-09-06 05:35:03,272 [INFO] Swap sent: qFbEjfVs1aCvPdjtZPrYWP1UQam74goUBsEpyp8XVKYxrhnnrBH4HDR7YBmURqbTJ4e5BJbJyNUvzTxDKzsecmc
+2025-09-06 05:35:03,272 [INFO] Recorded spend $0.01; last24h total=$0.01
+2025-09-06 05:35:03,273 [WARNING] [BUY] success qFbEjfVs1aCvPdjtZPrYWP1UQam74goUBsEpyp8XVKYxrhnnrBH4HDR7YBmURqbTJ4e5BJbJyNUvzTxDKzsecmc
+2025-09-06 05:36:03,728 [INFO] Activity check window=1m -> OK
+2025-09-06 05:36:03,728 [INFO] Activity OK — no buy.
+2025-09-06 05:44:06,562 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-06 05:44:06,562 [INFO] Running fixed schedule: every 21 hours
+2025-09-06 05:44:07,295 [INFO] Wallet balance: 0.020701 SOL
+2025-09-06 05:44:07,295 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:44:08,269 [INFO] Requesting swap quote input_amount_raw=9999 slippage_bps=500
+2025-09-06 05:44:09,654 [INFO] Swap sent: 54nTM243HPcz76WiBbtXMAXmvordNZy34jiksNxWs2XtYeRzEW8nu6YWenbvXSyGYKpLyuC1b8H21iKxv2NwYvoJ
+2025-09-06 05:44:09,655 [INFO] Recorded spend $0.01; last24h total=$0.01
+2025-09-06 05:44:09,655 [WARNING] [BUY] success 54nTM243HPcz76WiBbtXMAXmvordNZy34jiksNxWs2XtYeRzEW8nu6YWenbvXSyGYKpLyuC1b8H21iKxv2NwYvoJ
+2025-09-06 05:44:30,660 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:44:30,878 [INFO] Requesting swap quote input_amount_raw=9994 slippage_bps=500
+2025-09-06 05:44:31,896 [INFO] Swap sent: 3rEVB9abLDqN6ModXd8TA8CTmeFWwraXzo3Y7PmNunbMw2AcZsaMZvziDma6FUUC1KJAjHJrtpFvBw6DLx8kTENH
+2025-09-06 05:44:31,897 [INFO] Recorded spend $0.01; last24h total=$0.02
+2025-09-06 05:44:31,897 [WARNING] [BUY] success 3rEVB9abLDqN6ModXd8TA8CTmeFWwraXzo3Y7PmNunbMw2AcZsaMZvziDma6FUUC1KJAjHJrtpFvBw6DLx8kTENH
+2025-09-06 05:44:52,900 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:44:53,221 [INFO] Requesting swap quote input_amount_raw=9996 slippage_bps=500
+2025-09-06 05:44:54,876 [INFO] Swap sent: 4DfWVvgD9ytKDrcQ7QQD7imA8i9W49Ji6xhS8JyVVWbu1cUGxt1kMHx9PLD1Gzwg4DL6zESfaXJKZW6u5Lmiaidc
+2025-09-06 05:44:54,877 [INFO] Recorded spend $0.01; last24h total=$0.03
+2025-09-06 05:44:54,877 [WARNING] [BUY] success 4DfWVvgD9ytKDrcQ7QQD7imA8i9W49Ji6xhS8JyVVWbu1cUGxt1kMHx9PLD1Gzwg4DL6zESfaXJKZW6u5Lmiaidc
+2025-09-06 05:45:15,882 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:45:16,291 [INFO] Requesting swap quote input_amount_raw=9999 slippage_bps=500
+2025-09-06 05:45:17,797 [INFO] Swap sent: 2hH3UYDo2PQivz37B25SbYBTBkVNyRLVrFYt1exF2NZmofhzshK36qgZeyrh1WBD2ohcCruzDmefV3P4KouZRViL
+2025-09-06 05:45:17,798 [INFO] Recorded spend $0.01; last24h total=$0.04
+2025-09-06 05:45:17,798 [WARNING] [BUY] success 2hH3UYDo2PQivz37B25SbYBTBkVNyRLVrFYt1exF2NZmofhzshK36qgZeyrh1WBD2ohcCruzDmefV3P4KouZRViL
+2025-09-06 05:45:38,802 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:45:39,350 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:45:40,986 [INFO] Swap sent: 4biw71eW9qfoz3zZfYvnyakSxAw5Fr58RoGTLeMRmCCVCmqKgu9769vp9dpnXwowf2EDf3vmZxPGJ6hCpAB6j864
+2025-09-06 05:45:40,986 [INFO] Recorded spend $0.01; last24h total=$0.05
+2025-09-06 05:45:40,986 [WARNING] [BUY] success 4biw71eW9qfoz3zZfYvnyakSxAw5Fr58RoGTLeMRmCCVCmqKgu9769vp9dpnXwowf2EDf3vmZxPGJ6hCpAB6j864
+2025-09-06 05:46:01,990 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:46:02,291 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:46:03,836 [INFO] Swap sent: 41XVsKotr2knbG2VRtcW3Ym4Pzk77EaE13kNrqHASaT1Qcw9ounMA3cWvm4uuztCBN2NSeWqWHRB3TBUaTQnzVJX
+2025-09-06 05:46:03,836 [INFO] Recorded spend $0.01; last24h total=$0.06
+2025-09-06 05:46:03,837 [WARNING] [BUY] success 41XVsKotr2knbG2VRtcW3Ym4Pzk77EaE13kNrqHASaT1Qcw9ounMA3cWvm4uuztCBN2NSeWqWHRB3TBUaTQnzVJX
+2025-09-06 05:46:24,842 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:46:25,414 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:46:26,672 [INFO] Swap sent: 5hLoSUh44fq1YWJ19eatSYJ8WRJwgW9un7CMtrwzqKgymBorFYoUbHLWh23xQoumbuD3b66t4k3dFZppLCiuWdwF
+2025-09-06 05:46:26,673 [INFO] Recorded spend $0.01; last24h total=$0.07
+2025-09-06 05:46:26,673 [WARNING] [BUY] success 5hLoSUh44fq1YWJ19eatSYJ8WRJwgW9un7CMtrwzqKgymBorFYoUbHLWh23xQoumbuD3b66t4k3dFZppLCiuWdwF
+2025-09-06 05:46:47,678 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:46:48,351 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:46:49,476 [INFO] Swap sent: 4dH3nmkienuzXEHkRE4rYNMNHTvb5akvtHcA7fSwwSKpYLxhRBmVvKFbQv8doxAiisw7MbiC5s5ke17kE2rMvZos
+2025-09-06 05:46:49,477 [INFO] Recorded spend $0.01; last24h total=$0.08
+2025-09-06 05:46:49,477 [WARNING] [BUY] success 4dH3nmkienuzXEHkRE4rYNMNHTvb5akvtHcA7fSwwSKpYLxhRBmVvKFbQv8doxAiisw7MbiC5s5ke17kE2rMvZos
+2025-09-06 05:47:10,479 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:47:10,697 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:47:11,694 [INFO] Swap sent: 2RFLxYTWobN6AKa5yAQhEKqpSL6a11c5Dm6Kv9GoJvdDBhWTFUAnTV9E3gugMxh56Gx7BCeXQaYjWNy3DWkXcEWh
+2025-09-06 05:47:11,695 [INFO] Recorded spend $0.01; last24h total=$0.09
+2025-09-06 05:47:11,695 [WARNING] [BUY] success 2RFLxYTWobN6AKa5yAQhEKqpSL6a11c5Dm6Kv9GoJvdDBhWTFUAnTV9E3gugMxh56Gx7BCeXQaYjWNy3DWkXcEWh
+2025-09-06 05:47:32,700 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:47:33,168 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:47:34,494 [INFO] Swap sent: 3BWuiKB2oH1d2khBr8gPK7brAZY6SnAC8o723tYFGbfRsW8xhaE5PnqGyL7Ndg4PscNxsGqrMrutuGyxG7VcoyAx
+2025-09-06 05:47:34,494 [INFO] Recorded spend $0.01; last24h total=$0.10
+2025-09-06 05:47:34,495 [WARNING] [BUY] success 3BWuiKB2oH1d2khBr8gPK7brAZY6SnAC8o723tYFGbfRsW8xhaE5PnqGyL7Ndg4PscNxsGqrMrutuGyxG7VcoyAx
+2025-09-06 05:47:55,496 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:47:55,497 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:48:16,502 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:48:16,503 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:48:37,508 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:48:37,508 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:48:58,513 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:48:58,514 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:49:19,519 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:49:19,520 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:49:40,533 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:49:40,534 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:50:01,544 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:50:01,544 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:50:22,551 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:50:22,552 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:50:43,553 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:50:43,554 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:51:04,559 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:51:04,560 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:51:25,565 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:51:25,566 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:51:46,568 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:51:46,568 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:52:07,574 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:52:07,574 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:52:28,580 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:52:28,580 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:52:49,584 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:52:49,585 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:53:10,590 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:53:10,591 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:53:31,596 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:53:31,597 [ERROR] [BUY] primary failed: Daily cap reached, max $0.10
+2025-09-06 05:53:44,942 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-06 05:53:44,942 [INFO] Running fixed schedule: every 21 hours
+2025-09-06 05:53:45,549 [INFO] Wallet balance: 0.020651 SOL
+2025-09-06 05:53:45,550 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:53:47,128 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:53:48,900 [INFO] Swap sent: 2kQSZCRRpsxgPBMbHgBsjuoS9zVCizdBf6bGBoJrM5AriaWpy7dRogmeqWHDWBUtRd92E5qgk2KebXCdwup5VDBT
+2025-09-06 05:53:48,900 [INFO] Recorded spend $0.01; last24h total=$0.01
+2025-09-06 05:53:48,900 [WARNING] [BUY] success 2kQSZCRRpsxgPBMbHgBsjuoS9zVCizdBf6bGBoJrM5AriaWpy7dRogmeqWHDWBUtRd92E5qgk2KebXCdwup5VDBT
+2025-09-06 05:53:51,906 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:53:52,123 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:53:53,771 [INFO] Swap sent: 2BHRnk4TM2Nq5ChCXGr5AyMoe19KP1GEpArGvPhPpfSNunYfUDkYzMTc8Gw44ZYztVe4oWRqmxxsHtWKg11GxJRe
+2025-09-06 05:53:53,772 [INFO] Recorded spend $0.01; last24h total=$0.02
+2025-09-06 05:53:53,772 [WARNING] [BUY] success 2BHRnk4TM2Nq5ChCXGr5AyMoe19KP1GEpArGvPhPpfSNunYfUDkYzMTc8Gw44ZYztVe4oWRqmxxsHtWKg11GxJRe
+2025-09-06 05:53:56,776 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:53:56,998 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:53:58,500 [INFO] Swap sent: 3M8qFQcmjfNtjtJPm5qEgEGKqWHvBCVJzaTR1G97ZpKiWUqkQA8zKSE5nkf76R6s5DV7aiend9x2mfxJxEHD9qRN
+2025-09-06 05:53:58,500 [INFO] Recorded spend $0.01; last24h total=$0.03
+2025-09-06 05:53:58,501 [WARNING] [BUY] success 3M8qFQcmjfNtjtJPm5qEgEGKqWHvBCVJzaTR1G97ZpKiWUqkQA8zKSE5nkf76R6s5DV7aiend9x2mfxJxEHD9qRN
+2025-09-06 05:54:01,505 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:02,265 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:54:03,794 [INFO] Swap sent: GLML9iBoaLVm7SWuBuv4kav9n2wPinhCbC4Uc8fGctwSCbGMU5ZHwLSRTXzPqtAFKheJ6RgdXAAYXBFLVXTBH2Q
+2025-09-06 05:54:03,795 [INFO] Recorded spend $0.01; last24h total=$0.04
+2025-09-06 05:54:03,795 [WARNING] [BUY] success GLML9iBoaLVm7SWuBuv4kav9n2wPinhCbC4Uc8fGctwSCbGMU5ZHwLSRTXzPqtAFKheJ6RgdXAAYXBFLVXTBH2Q
+2025-09-06 05:54:06,797 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:07,022 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:54:07,839 [INFO] Swap sent: 49YPjJSha6bNTZfnEQxaYncs4K5SZTwi5Tsow5jkgrRRBMkrNQUrKZau9jSpJwfKneG85nYrmiCw8deMZg1vxx88
+2025-09-06 05:54:07,839 [INFO] Recorded spend $0.01; last24h total=$0.05
+2025-09-06 05:54:07,840 [WARNING] [BUY] success 49YPjJSha6bNTZfnEQxaYncs4K5SZTwi5Tsow5jkgrRRBMkrNQUrKZau9jSpJwfKneG85nYrmiCw8deMZg1vxx88
+2025-09-06 05:54:10,845 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:11,049 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:54:11,820 [INFO] Swap sent: 3vtBX84iDxwmnsmvFd4F1gfoSW9zr3TpKuS6w5hbWqMBGe9TFKqj3cq7KhgPvQu7ew5JBmKcEDwHiwM9dhL6EVyr
+2025-09-06 05:54:11,820 [INFO] Recorded spend $0.01; last24h total=$0.06
+2025-09-06 05:54:11,821 [WARNING] [BUY] success 3vtBX84iDxwmnsmvFd4F1gfoSW9zr3TpKuS6w5hbWqMBGe9TFKqj3cq7KhgPvQu7ew5JBmKcEDwHiwM9dhL6EVyr
+2025-09-06 05:54:14,823 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:15,185 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:54:16,280 [INFO] Swap sent: 3hJvcHCpag9e7qXmDudoveWeKeeAT77Wk1njqgqADeJunowU59Nf2875QdETt2UienYuRutCC3DpYKMfpVtfZd26
+2025-09-06 05:54:16,281 [INFO] Recorded spend $0.01; last24h total=$0.07
+2025-09-06 05:54:16,281 [WARNING] [BUY] success 3hJvcHCpag9e7qXmDudoveWeKeeAT77Wk1njqgqADeJunowU59Nf2875QdETt2UienYuRutCC3DpYKMfpVtfZd26
+2025-09-06 05:54:19,284 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:19,515 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:54:20,325 [INFO] Swap sent: 2SG4Gp7hwYb8pdPztB1radqZfsmqxYUJc8JXBwdaUcaBBkvMbyZpcZdinQxXsd9ohsnHVLurHcraEt3J8GB6nFvr
+2025-09-06 05:54:20,325 [INFO] Recorded spend $0.01; last24h total=$0.08
+2025-09-06 05:54:20,326 [WARNING] [BUY] success 2SG4Gp7hwYb8pdPztB1radqZfsmqxYUJc8JXBwdaUcaBBkvMbyZpcZdinQxXsd9ohsnHVLurHcraEt3J8GB6nFvr
+2025-09-06 05:54:23,331 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:23,653 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:54:24,471 [INFO] Swap sent: 3ik6V828sesqVVzbJuo3D5AgNV4Rugy7aDDSVgbefsznucjguZMRZKjmSTed4WCXAswu11u55h8jazT85RDLKfrN
+2025-09-06 05:54:24,471 [INFO] Recorded spend $0.01; last24h total=$0.09
+2025-09-06 05:54:24,471 [WARNING] [BUY] success 3ik6V828sesqVVzbJuo3D5AgNV4Rugy7aDDSVgbefsznucjguZMRZKjmSTed4WCXAswu11u55h8jazT85RDLKfrN
+2025-09-06 05:54:27,474 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:27,676 [INFO] Requesting swap quote input_amount_raw=9994 slippage_bps=500
+2025-09-06 05:54:28,508 [INFO] Swap sent: 2No3fy6PLDaEEVzBUCrDk8eR8qZcA9mwi8LPoWV7NKe5oXoVHhdBJKxgoTjhYMsT6WnQZ5YeXhyARw4ywDbkXjoT
+2025-09-06 05:54:28,509 [INFO] Recorded spend $0.01; last24h total=$0.10
+2025-09-06 05:54:28,509 [WARNING] [BUY] success 2No3fy6PLDaEEVzBUCrDk8eR8qZcA9mwi8LPoWV7NKe5oXoVHhdBJKxgoTjhYMsT6WnQZ5YeXhyARw4ywDbkXjoT
+2025-09-06 05:54:31,514 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:31,722 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:54:32,557 [INFO] Swap sent: 2sy2jG9d5sEWWxbY293NuNS6t2GDSJ4zGnF5TixcpaoTs2HkSwZ4VqgKGpSHZx1gvvy4DjeXVVN1DxzvgbCarh93
+2025-09-06 05:54:32,557 [INFO] Recorded spend $0.01; last24h total=$0.11
+2025-09-06 05:54:32,558 [WARNING] [BUY] success 2sy2jG9d5sEWWxbY293NuNS6t2GDSJ4zGnF5TixcpaoTs2HkSwZ4VqgKGpSHZx1gvvy4DjeXVVN1DxzvgbCarh93
+2025-09-06 05:54:35,563 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:35,774 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:54:36,637 [INFO] Swap sent: 22d4jTbWXfBrYXoNd5bborQ32CA1AjvDBagTXNGSKgdXGMJvD4KtpK14wHpeiFCMMkSCUWe5BgPXjRMBz6kVPEiU
+2025-09-06 05:54:36,637 [INFO] Recorded spend $0.01; last24h total=$0.12
+2025-09-06 05:54:36,637 [WARNING] [BUY] success 22d4jTbWXfBrYXoNd5bborQ32CA1AjvDBagTXNGSKgdXGMJvD4KtpK14wHpeiFCMMkSCUWe5BgPXjRMBz6kVPEiU
+2025-09-06 05:54:39,643 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:39,853 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:54:40,646 [INFO] Swap sent: 26FdYSD6euw5HTw9o4FrSRSYkPhP6eW3W8ANbKXsuqE4LMVQTcDyweyiZfyXdhmicfuHWj5YKzdckDwnvQVAh5uW
+2025-09-06 05:54:40,647 [INFO] Recorded spend $0.01; last24h total=$0.13
+2025-09-06 05:54:40,647 [WARNING] [BUY] success 26FdYSD6euw5HTw9o4FrSRSYkPhP6eW3W8ANbKXsuqE4LMVQTcDyweyiZfyXdhmicfuHWj5YKzdckDwnvQVAh5uW
+2025-09-06 05:54:43,652 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:43,860 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:54:44,658 [INFO] Swap sent: 4CV3Xi8f7HZbgw1pAZdiTyrTZkfZak6hppkM3pmZE1XHfzvc2hNSZdHuBPTd9men1LBH1v8VqjwU38aSfmFd342K
+2025-09-06 05:54:44,658 [INFO] Recorded spend $0.01; last24h total=$0.14
+2025-09-06 05:54:44,658 [WARNING] [BUY] success 4CV3Xi8f7HZbgw1pAZdiTyrTZkfZak6hppkM3pmZE1XHfzvc2hNSZdHuBPTd9men1LBH1v8VqjwU38aSfmFd342K
+2025-09-06 05:54:47,662 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:48,435 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:54:49,230 [INFO] Swap sent: 2umdcLtzr62v57gHycMRVCnbtpZckuPJQoy7qwSxm9wrf1mqseSC1PqA4Q8SqoGcekvCJLCcYQWstQMxAPLS4t9f
+2025-09-06 05:54:49,230 [INFO] Recorded spend $0.01; last24h total=$0.15
+2025-09-06 05:54:49,230 [WARNING] [BUY] success 2umdcLtzr62v57gHycMRVCnbtpZckuPJQoy7qwSxm9wrf1mqseSC1PqA4Q8SqoGcekvCJLCcYQWstQMxAPLS4t9f
+2025-09-06 05:54:52,232 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:53,184 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:54:54,622 [INFO] Swap sent: 3v7u1sXnU3sWvLKU9nba2mDPKTdyEPqxiKfxqZbv8w361dABZwfYKpihgTh5iLcWHicEiR1WuPkkmBpx39QUVTgK
+2025-09-06 05:54:54,623 [INFO] Recorded spend $0.01; last24h total=$0.16
+2025-09-06 05:54:54,623 [WARNING] [BUY] success 3v7u1sXnU3sWvLKU9nba2mDPKTdyEPqxiKfxqZbv8w361dABZwfYKpihgTh5iLcWHicEiR1WuPkkmBpx39QUVTgK
+2025-09-06 05:54:57,628 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:54:58,291 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:54:59,224 [INFO] Swap sent: 36UQmUnaKYERgrm1RYaR9ppWaypRyT1us9uaDKvFVdpEkwtdNF52CqU7hVNQVrn1xFtupZ7KzH3tywafLZbduMU2
+2025-09-06 05:54:59,225 [INFO] Recorded spend $0.01; last24h total=$0.17
+2025-09-06 05:54:59,225 [WARNING] [BUY] success 36UQmUnaKYERgrm1RYaR9ppWaypRyT1us9uaDKvFVdpEkwtdNF52CqU7hVNQVrn1xFtupZ7KzH3tywafLZbduMU2
+2025-09-06 05:55:02,230 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:55:02,449 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:55:03,629 [INFO] Swap sent: 2mb4iDQQkCTdP9kzAXngBF4kztbg9XcoNnB42akV9eB14ZACVLSTjogXwZXnDwhHewF5sagW1r19EcHGozLghfSu
+2025-09-06 05:55:03,629 [INFO] Recorded spend $0.01; last24h total=$0.18
+2025-09-06 05:55:03,629 [WARNING] [BUY] success 2mb4iDQQkCTdP9kzAXngBF4kztbg9XcoNnB42akV9eB14ZACVLSTjogXwZXnDwhHewF5sagW1r19EcHGozLghfSu
+2025-09-06 05:55:06,631 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:55:06,852 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:55:08,126 [INFO] Swap sent: 29CDZ1DZ3t1VxBPuw33ePzCzo3adjP2EVgi7RtaWj3fdUDuanBedLuFiyCJMyEjK5iTzTYCbn4rhdVww4nt7hF8y
+2025-09-06 05:55:08,126 [INFO] Recorded spend $0.01; last24h total=$0.19
+2025-09-06 05:55:08,126 [WARNING] [BUY] success 29CDZ1DZ3t1VxBPuw33ePzCzo3adjP2EVgi7RtaWj3fdUDuanBedLuFiyCJMyEjK5iTzTYCbn4rhdVww4nt7hF8y
+2025-09-06 05:55:11,130 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:55:11,677 [INFO] Requesting swap quote input_amount_raw=9996 slippage_bps=500
+2025-09-06 05:55:12,484 [INFO] Swap sent: 2arnBEkeBirpsvszZDnP2f5wDpHxLzsKrDs5djymyKE7C5S4eEG3gBZ3ckWyNSomnPaUcFNK8niv4kMB3dnHWWUm
+2025-09-06 05:55:12,485 [INFO] Recorded spend $0.01; last24h total=$0.20
+2025-09-06 05:55:12,485 [WARNING] [BUY] success 2arnBEkeBirpsvszZDnP2f5wDpHxLzsKrDs5djymyKE7C5S4eEG3gBZ3ckWyNSomnPaUcFNK8niv4kMB3dnHWWUm
+2025-09-06 05:55:15,488 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:55:15,706 [INFO] Requesting swap quote input_amount_raw=9996 slippage_bps=500
+2025-09-06 05:55:16,765 [INFO] Swap sent: 3i5kjCGR7dXVH317qbW1zJbFMy95yZJpufjDVKrKDsGoRUk8emiWNf1pEHDDYyhF2uANWnPSAWJbqmpyNUwj4Xfa
+2025-09-06 05:55:16,765 [INFO] Recorded spend $0.01; last24h total=$0.21
+2025-09-06 05:55:16,766 [WARNING] [BUY] success 3i5kjCGR7dXVH317qbW1zJbFMy95yZJpufjDVKrKDsGoRUk8emiWNf1pEHDDYyhF2uANWnPSAWJbqmpyNUwj4Xfa
+2025-09-06 05:55:19,768 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:55:20,688 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:55:21,492 [INFO] Swap sent: duicho5iXHR3BTc9379XAjFSa4zmiXPEmjj4c4ABSFiiVybNixSX1Sr14VShkZxC54SdzfJhTiTJ9fbxSvBZ698
+2025-09-06 05:55:21,492 [INFO] Recorded spend $0.01; last24h total=$0.22
+2025-09-06 05:55:21,492 [WARNING] [BUY] success duicho5iXHR3BTc9379XAjFSa4zmiXPEmjj4c4ABSFiiVybNixSX1Sr14VShkZxC54SdzfJhTiTJ9fbxSvBZ698
+2025-09-06 05:55:24,497 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:55:24,705 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:55:24,782 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:25,871 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:26,953 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:27,957 [ERROR] [BUY] primary failed: GET failed: https://quote-api.jup.ag/v6/quote status=429 body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:27,958 [WARNING] [BUY] retrying fallback $0.10
+2025-09-06 05:55:28,041 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:29,128 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:30,225 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:31,228 [ERROR] [BUY] fallback failed: GET failed: https://quote-api.jup.ag/v6/quote status=429 body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:34,235 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:55:34,324 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:35,407 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:36,500 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:37,502 [ERROR] [BUY] primary failed: GET failed: https://quote-api.jup.ag/v6/quote status=429 body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:37,503 [WARNING] [BUY] retrying fallback $0.10
+2025-09-06 05:55:37,591 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:38,678 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:55:39,787 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:10,261 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-06 05:56:10,261 [INFO] Running fixed schedule: every 21 hours
+2025-09-06 05:56:10,705 [INFO] Wallet balance: 0.020541 SOL
+2025-09-06 05:56:10,706 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:56:10,785 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:11,885 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:12,979 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:13,983 [ERROR] [BUY] primary failed: GET failed: https://quote-api.jup.ag/v6/quote status=429 body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:13,984 [WARNING] [BUY] retrying fallback $0.10
+2025-09-06 05:56:14,062 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:15,153 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:16,273 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:17,275 [ERROR] [BUY] fallback failed: GET failed: https://quote-api.jup.ag/v6/quote status=429 body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:30,845 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-06 05:56:30,846 [INFO] Running fixed schedule: every 21 hours
+2025-09-06 05:56:31,374 [INFO] Wallet balance: 0.020541 SOL
+2025-09-06 05:56:31,374 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:56:31,459 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:32,549 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:33,640 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:34,645 [ERROR] [BUY] primary failed: GET failed: https://quote-api.jup.ag/v6/quote status=429 body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:34,646 [WARNING] [BUY] retrying fallback $0.10
+2025-09-06 05:56:34,728 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:35,821 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:36,912 [WARNING] GET non-200 429 url=https://quote-api.jup.ag/v6/quote body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:56:37,916 [ERROR] [BUY] fallback failed: GET failed: https://quote-api.jup.ag/v6/quote status=429 body={"statusCode":429,"error":"Too Many Requests","message":"You have exceeded the rate limit of 60 requests per minute."}
+2025-09-06 05:58:12,784 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-06 05:58:12,784 [INFO] Running fixed schedule: every 21 hours
+2025-09-06 05:58:13,272 [INFO] Wallet balance: 0.020541 SOL
+2025-09-06 05:58:13,273 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:58:14,005 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:58:14,818 [INFO] Swap sent: 3uxyJcB55bWV1VNFwKesTJe8pAfq4sWnuo6knDTbttcmGvomWHnZzovd7Cw6ceBGUdR2HxuGLwjsdj9tdiumYScz
+2025-09-06 05:58:14,819 [INFO] Recorded spend $0.01; last24h total=$0.01
+2025-09-06 05:58:14,819 [WARNING] [BUY] success 3uxyJcB55bWV1VNFwKesTJe8pAfq4sWnuo6knDTbttcmGvomWHnZzovd7Cw6ceBGUdR2HxuGLwjsdj9tdiumYScz
+2025-09-06 05:58:40,019 [INFO] CharCoin keep-alive bot | TEST_MODE=True DRY_RUN=False FORCE_BUY_NOW=False
+2025-09-06 05:58:40,019 [INFO] Running fixed schedule: every 21 hours
+2025-09-06 05:58:40,377 [INFO] Wallet balance: 0.020536 SOL
+2025-09-06 05:58:40,377 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:58:40,603 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:58:41,755 [INFO] Swap sent: 2b3nAfNwGrT121SYBh7bFDn136NMk92XUKrNmuthJA7MzQpSqrd8GjRM7xN7Cmjxu9arfkiXXB6H1D8Z49LcMp4M
+2025-09-06 05:58:41,756 [INFO] Recorded spend $0.01; last24h total=$0.01
+2025-09-06 05:58:41,756 [WARNING] [BUY] success 2b3nAfNwGrT121SYBh7bFDn136NMk92XUKrNmuthJA7MzQpSqrd8GjRM7xN7Cmjxu9arfkiXXB6H1D8Z49LcMp4M
+2025-09-06 05:59:02,761 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:59:03,107 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 05:59:05,067 [INFO] Swap sent: sv5n4Y5GBn4jKWtecyijdVKndsGCpDGk2K85LXsmrz3pwzhz3KMS1M6MaqbRKYUK4Z4HW86PsThxz34QvmZBdPg
+2025-09-06 05:59:05,068 [INFO] Recorded spend $0.01; last24h total=$0.02
+2025-09-06 05:59:05,068 [WARNING] [BUY] success sv5n4Y5GBn4jKWtecyijdVKndsGCpDGk2K85LXsmrz3pwzhz3KMS1M6MaqbRKYUK4Z4HW86PsThxz34QvmZBdPg
+2025-09-06 05:59:26,070 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:59:26,558 [INFO] Requesting swap quote input_amount_raw=9996 slippage_bps=500
+2025-09-06 05:59:27,885 [INFO] Swap sent: 4JLqug3sVSUoiYZE2SHfm317bTuBd6QS9rcLGL8tPN5LkEirNaygr3SbNFwCZgCwLNhMmtLNzm1hbgmyEvQG875g
+2025-09-06 05:59:27,885 [INFO] Recorded spend $0.01; last24h total=$0.03
+2025-09-06 05:59:27,885 [WARNING] [BUY] success 4JLqug3sVSUoiYZE2SHfm317bTuBd6QS9rcLGL8tPN5LkEirNaygr3SbNFwCZgCwLNhMmtLNzm1hbgmyEvQG875g
+2025-09-06 05:59:48,891 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 05:59:49,103 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 05:59:50,069 [INFO] Swap sent: 37Bn6JY1YXuNehv7qc6dDU1Ww6LLAwMYHL3hzv8i6hwjsvd6vwkFm9C6cchY5y2oesogCvAkoefomT8ccGXXnXud
+2025-09-06 05:59:50,069 [INFO] Recorded spend $0.01; last24h total=$0.04
+2025-09-06 05:59:50,069 [WARNING] [BUY] success 37Bn6JY1YXuNehv7qc6dDU1Ww6LLAwMYHL3hzv8i6hwjsvd6vwkFm9C6cchY5y2oesogCvAkoefomT8ccGXXnXud
+2025-09-06 06:00:11,073 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:00:12,158 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 06:00:14,255 [INFO] Swap sent: 2NPfHqrGSACCwK3eN4fU24DpcywTjjGh8K4iQo2JFcArHF1iBCZyv8evrAankKwv8zDkJPo7pRd5iqbtqB5Dqnx3
+2025-09-06 06:00:14,255 [INFO] Recorded spend $0.01; last24h total=$0.05
+2025-09-06 06:00:14,256 [WARNING] [BUY] success 2NPfHqrGSACCwK3eN4fU24DpcywTjjGh8K4iQo2JFcArHF1iBCZyv8evrAankKwv8zDkJPo7pRd5iqbtqB5Dqnx3
+2025-09-06 06:00:35,259 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:00:36,584 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:00:38,072 [INFO] Swap sent: EYmxF7c9rFZhXe8x1xa1xxA4kExaJcvY4fX91iB6vwVFS49jAt8tTjxfRYu38DiifSQyLC25e7ydnd496QCa1jH
+2025-09-06 06:00:38,072 [INFO] Recorded spend $0.01; last24h total=$0.06
+2025-09-06 06:00:38,072 [WARNING] [BUY] success EYmxF7c9rFZhXe8x1xa1xxA4kExaJcvY4fX91iB6vwVFS49jAt8tTjxfRYu38DiifSQyLC25e7ydnd496QCa1jH
+2025-09-06 06:00:59,078 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:00:59,335 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:01:00,316 [INFO] Swap sent: FYCWfaWH16wJbgC4PFMcXcgAzLLgsvVTbH9jTVdvNrMPCdHePjnMzqmKFZ6z7JjSDN91AbwcKbDhgjhZHo23nM5
+2025-09-06 06:01:00,316 [INFO] Recorded spend $0.01; last24h total=$0.07
+2025-09-06 06:01:00,316 [WARNING] [BUY] success FYCWfaWH16wJbgC4PFMcXcgAzLLgsvVTbH9jTVdvNrMPCdHePjnMzqmKFZ6z7JjSDN91AbwcKbDhgjhZHo23nM5
+2025-09-06 06:01:21,318 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:01:22,027 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 06:01:24,228 [INFO] Swap sent: 2tgvVfCesKp7BeczCubkCz9Q3qeLwiLG9bLa7JGM627cuoSdYXX4xuKQPYDaNUT9emV2ovXvvfWL5w4b5fQZryWK
+2025-09-06 06:01:24,228 [INFO] Recorded spend $0.01; last24h total=$0.08
+2025-09-06 06:01:24,228 [WARNING] [BUY] success 2tgvVfCesKp7BeczCubkCz9Q3qeLwiLG9bLa7JGM627cuoSdYXX4xuKQPYDaNUT9emV2ovXvvfWL5w4b5fQZryWK
+2025-09-06 06:01:45,234 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:01:45,552 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:01:46,932 [INFO] Swap sent: 26dm7qz75ao128vpQvyy91Ra5u8kgrHDzqBPntjAgo3jvtBjmfNP4i4DraHvnkanw8xmEuheY9pyvZqEF37BN5B8
+2025-09-06 06:01:46,932 [INFO] Recorded spend $0.01; last24h total=$0.09
+2025-09-06 06:01:46,932 [WARNING] [BUY] success 26dm7qz75ao128vpQvyy91Ra5u8kgrHDzqBPntjAgo3jvtBjmfNP4i4DraHvnkanw8xmEuheY9pyvZqEF37BN5B8
+2025-09-06 06:02:07,933 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:02:08,167 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:02:09,252 [INFO] Swap sent: 3yt2DvLYJKbtwjkhNSLr6kybtrLiZjabtE1BvcAAR1fS8Lg9UgQh2wQDrbP7Ntm5w9GVgvaRKnAwpNffYYt9bNvW
+2025-09-06 06:02:09,253 [INFO] Recorded spend $0.01; last24h total=$0.10
+2025-09-06 06:02:09,253 [WARNING] [BUY] success 3yt2DvLYJKbtwjkhNSLr6kybtrLiZjabtE1BvcAAR1fS8Lg9UgQh2wQDrbP7Ntm5w9GVgvaRKnAwpNffYYt9bNvW
+2025-09-06 06:02:30,257 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:02:31,417 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:02:32,550 [INFO] Swap sent: 49Vu2cP9XpTBSCpWJttLZiL6ML2Zy745fqAzuGQHie4VYaeu191F1BwJHu8nJcb5UYVKfeVaE7ibBUYL2LxSGuQ1
+2025-09-06 06:02:32,551 [INFO] Recorded spend $0.01; last24h total=$0.11
+2025-09-06 06:02:32,551 [WARNING] [BUY] success 49Vu2cP9XpTBSCpWJttLZiL6ML2Zy745fqAzuGQHie4VYaeu191F1BwJHu8nJcb5UYVKfeVaE7ibBUYL2LxSGuQ1
+2025-09-06 06:02:53,556 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:02:54,232 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:02:56,139 [INFO] Swap sent: 3N55hP9FoKarnCbPb2uVAAjMgA3WvpZabv4DQUPhvckg251tWfMUEiR7tJVYSPJn2FVSeE3SU9TxKuxgj1Msn5u7
+2025-09-06 06:02:56,139 [INFO] Recorded spend $0.01; last24h total=$0.12
+2025-09-06 06:02:56,139 [WARNING] [BUY] success 3N55hP9FoKarnCbPb2uVAAjMgA3WvpZabv4DQUPhvckg251tWfMUEiR7tJVYSPJn2FVSeE3SU9TxKuxgj1Msn5u7
+2025-09-06 06:03:17,144 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:03:17,784 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:03:18,700 [INFO] Swap sent: 64B6ktz6Pvrv3LaT1eGMVzE2C4V4vaNBNwbTVUps8fQiVFbx3xmMMisMyKPdxDeouhDZzKQ53yteQ97CPuhuhdY
+2025-09-06 06:03:18,700 [INFO] Recorded spend $0.01; last24h total=$0.13
+2025-09-06 06:03:18,700 [WARNING] [BUY] success 64B6ktz6Pvrv3LaT1eGMVzE2C4V4vaNBNwbTVUps8fQiVFbx3xmMMisMyKPdxDeouhDZzKQ53yteQ97CPuhuhdY
+2025-09-06 06:03:39,703 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:03:40,481 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 06:03:41,949 [INFO] Swap sent: 2xqbMXe3vNf3tQmHLphWsMP9tGPLaEsiRtVRjGcRgg3SSbSvcPZYCpErgaZedqeDQm9V8DcChAHdykDjvzjYfgjd
+2025-09-06 06:03:41,950 [INFO] Recorded spend $0.01; last24h total=$0.14
+2025-09-06 06:03:41,950 [WARNING] [BUY] success 2xqbMXe3vNf3tQmHLphWsMP9tGPLaEsiRtVRjGcRgg3SSbSvcPZYCpErgaZedqeDQm9V8DcChAHdykDjvzjYfgjd
+2025-09-06 06:09:15,209 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:09:15,561 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:09:17,312 [INFO] Swap sent: 2mUH9T8UPhY3fhdfjmo1nvwKWFgaPVVousV1eUGtAVKTyfpWYWoAriwCqUCZR7PhkTe2xRtQu3miyYUkFAMnRLv7
+2025-09-06 06:09:17,312 [INFO] Recorded spend $0.01; last24h total=$0.15
+2025-09-06 06:09:17,312 [WARNING] [BUY] success 2mUH9T8UPhY3fhdfjmo1nvwKWFgaPVVousV1eUGtAVKTyfpWYWoAriwCqUCZR7PhkTe2xRtQu3miyYUkFAMnRLv7
+2025-09-06 06:09:38,311 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:09:39,163 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:09:40,559 [INFO] Swap sent: cacrrfPp8F876DFrGzUeXkCZJZ5t4jKU5Jf8pxDctrQYPxL8WNhifybVZby9c9zWA5QoS5FQdvWyLryinuxV4RV
+2025-09-06 06:09:40,559 [INFO] Recorded spend $0.01; last24h total=$0.16
+2025-09-06 06:09:40,559 [WARNING] [BUY] success cacrrfPp8F876DFrGzUeXkCZJZ5t4jKU5Jf8pxDctrQYPxL8WNhifybVZby9c9zWA5QoS5FQdvWyLryinuxV4RV
+2025-09-06 06:10:01,564 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:10:02,766 [INFO] Requesting swap quote input_amount_raw=9995 slippage_bps=500
+2025-09-06 06:10:03,954 [INFO] Swap sent: 5Zryza1wY2c4aWmNdxqCuiPDUrQN1g6GoYAGgkevUpxHeq4fYfn8cECXVX5DAegCKHS8mU4ofMKirid9zwjW7Vqw
+2025-09-06 06:10:03,955 [INFO] Recorded spend $0.01; last24h total=$0.17
+2025-09-06 06:10:03,955 [WARNING] [BUY] success 5Zryza1wY2c4aWmNdxqCuiPDUrQN1g6GoYAGgkevUpxHeq4fYfn8cECXVX5DAegCKHS8mU4ofMKirid9zwjW7Vqw
+2025-09-06 06:10:24,960 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:10:25,170 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:10:26,632 [INFO] Swap sent: 4LkQE9HSF2ZmoJxVr2R5UGPVZrw4PPssoNbQRUmYoT88RMuiLEZG6aNLw63sfHxGkL2Tb8od7m2T54nSYEY3yBtG
+2025-09-06 06:10:26,633 [INFO] Recorded spend $0.01; last24h total=$0.18
+2025-09-06 06:10:26,633 [WARNING] [BUY] success 4LkQE9HSF2ZmoJxVr2R5UGPVZrw4PPssoNbQRUmYoT88RMuiLEZG6aNLw63sfHxGkL2Tb8od7m2T54nSYEY3yBtG
+2025-09-06 06:10:47,639 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:10:48,133 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:10:49,716 [INFO] Swap sent: 622w5qwcqu2ZzSrx6BwNyHgBye7jL1DSsm7E2NS9BcNHJcNJAkJ9rne2ZdYHG1mttGdzEe6euRnjJ4xDbXAhG1h6
+2025-09-06 06:10:49,717 [INFO] Recorded spend $0.01; last24h total=$0.19
+2025-09-06 06:10:49,717 [WARNING] [BUY] success 622w5qwcqu2ZzSrx6BwNyHgBye7jL1DSsm7E2NS9BcNHJcNJAkJ9rne2ZdYHG1mttGdzEe6euRnjJ4xDbXAhG1h6
+2025-09-06 06:11:10,722 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:11:11,639 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:11:12,879 [INFO] Swap sent: 3GPcvNmRNJsVRHVLL9pyFd47BJVHrz46HUtwo265Eu1r5UfTKRaHnM5ahNM9kCNHE9BMZTFuaoNiSZBQXReoAXG7
+2025-09-06 06:11:12,880 [INFO] Recorded spend $0.01; last24h total=$0.20
+2025-09-06 06:11:12,880 [WARNING] [BUY] success 3GPcvNmRNJsVRHVLL9pyFd47BJVHrz46HUtwo265Eu1r5UfTKRaHnM5ahNM9kCNHE9BMZTFuaoNiSZBQXReoAXG7
+2025-09-06 06:11:33,885 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:11:34,101 [INFO] Requesting swap quote input_amount_raw=9995 slippage_bps=500
+2025-09-06 06:11:34,962 [INFO] Swap sent: 3o3p7CyBhNbQ1cKsiCEuGqtugod477oE3qVYbZF1RwbdrUY7RMSrDTVnmoGKJyUrvWxuNnL7pnn44JUGrrYomcYu
+2025-09-06 06:11:34,962 [INFO] Recorded spend $0.01; last24h total=$0.21
+2025-09-06 06:11:34,962 [WARNING] [BUY] success 3o3p7CyBhNbQ1cKsiCEuGqtugod477oE3qVYbZF1RwbdrUY7RMSrDTVnmoGKJyUrvWxuNnL7pnn44JUGrrYomcYu
+2025-09-06 06:11:55,964 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:11:56,358 [INFO] Requesting swap quote input_amount_raw=9992 slippage_bps=500
+2025-09-06 06:11:57,908 [INFO] Swap sent: EKXQCMo2dei4VDUfxEDPoorRtLqAKD4CzTKMTnmxWbJS7muT2KFUQFnf9N9tRuDc4vyc9fe1n3Y2DrSHpWNyNAX
+2025-09-06 06:11:57,908 [INFO] Recorded spend $0.01; last24h total=$0.22
+2025-09-06 06:11:57,909 [WARNING] [BUY] success EKXQCMo2dei4VDUfxEDPoorRtLqAKD4CzTKMTnmxWbJS7muT2KFUQFnf9N9tRuDc4vyc9fe1n3Y2DrSHpWNyNAX
+2025-09-06 06:12:18,911 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:12:19,679 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 06:12:21,894 [INFO] Swap sent: 3LCzYsoaRsRdgzv6ChT1QBQXPBsjikQ8eX92nMQ7Dg5SUqbSVUNU6RCE3povZ6FKKneVQ3qb6aXx9HHtMb1VwJqD
+2025-09-06 06:12:21,894 [INFO] Recorded spend $0.01; last24h total=$0.23
+2025-09-06 06:12:21,895 [WARNING] [BUY] success 3LCzYsoaRsRdgzv6ChT1QBQXPBsjikQ8eX92nMQ7Dg5SUqbSVUNU6RCE3povZ6FKKneVQ3qb6aXx9HHtMb1VwJqD
+2025-09-06 06:12:42,900 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:12:43,124 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:12:43,948 [INFO] Swap sent: 2BAohRHFk6TuZeCSLnEQiBAz1vBymzVLCR9btGt6HpBvmbKi2UNeKR7aPoGRZ8mWwEpeJX9spvHoFVBcB1PaSVZW
+2025-09-06 06:12:43,948 [INFO] Recorded spend $0.01; last24h total=$0.24
+2025-09-06 06:12:43,948 [WARNING] [BUY] success 2BAohRHFk6TuZeCSLnEQiBAz1vBymzVLCR9btGt6HpBvmbKi2UNeKR7aPoGRZ8mWwEpeJX9spvHoFVBcB1PaSVZW
+2025-09-06 06:13:04,954 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:13:05,865 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:13:07,586 [INFO] Swap sent: rxdHHNreJxMHXa3vFV2kZ15Qqw6sHpUqFpeLtu5PxZUtxF4oJrzQVqCZS8k4baCCtCAPDU8DhWGerVxVDHtt4eM
+2025-09-06 06:13:07,587 [INFO] Recorded spend $0.01; last24h total=$0.25
+2025-09-06 06:13:07,587 [WARNING] [BUY] success rxdHHNreJxMHXa3vFV2kZ15Qqw6sHpUqFpeLtu5PxZUtxF4oJrzQVqCZS8k4baCCtCAPDU8DhWGerVxVDHtt4eM
+2025-09-06 06:13:28,589 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:13:29,361 [INFO] Requesting swap quote input_amount_raw=9996 slippage_bps=500
+2025-09-06 06:13:30,956 [INFO] Swap sent: 4UYwzoAbCRRXmfiU36YMJQLmnPkq4G5QcKDzQGP4TgJWRBXc7vwrEhBetMVKgfxJ7G54TNEXUQ5KJrGEnctx2Lh
+2025-09-06 06:13:30,956 [INFO] Recorded spend $0.01; last24h total=$0.26
+2025-09-06 06:13:30,956 [WARNING] [BUY] success 4UYwzoAbCRRXmfiU36YMJQLmnPkq4G5QcKDzQGP4TgJWRBXc7vwrEhBetMVKgfxJ7G54TNEXUQ5KJrGEnctx2Lh
+2025-09-06 06:13:51,961 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:13:53,334 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:13:54,434 [INFO] Swap sent: AxucfMq6L1vM2F884VE38Hfi9LkxtPjpSa3L76XUh88bnemRw7917NeA9Me7eUACAT1RhJ6qRqSdPjtwQ91pnou
+2025-09-06 06:13:54,434 [INFO] Recorded spend $0.01; last24h total=$0.27
+2025-09-06 06:13:54,435 [WARNING] [BUY] success AxucfMq6L1vM2F884VE38Hfi9LkxtPjpSa3L76XUh88bnemRw7917NeA9Me7eUACAT1RhJ6qRqSdPjtwQ91pnou
+2025-09-06 06:14:15,440 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:14:16,295 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:14:18,547 [INFO] Swap sent: 3Dm5u52GzTFUKXLiN52FEjbE6NRBcE2YzcqWZBz5brtmjiuuz2jp9J8tSxroi4UXo9eBsa9QJAv53f2VCvuuqEYs
+2025-09-06 06:14:18,548 [INFO] Recorded spend $0.01; last24h total=$0.28
+2025-09-06 06:14:18,548 [WARNING] [BUY] success 3Dm5u52GzTFUKXLiN52FEjbE6NRBcE2YzcqWZBz5brtmjiuuz2jp9J8tSxroi4UXo9eBsa9QJAv53f2VCvuuqEYs
+2025-09-06 06:14:39,554 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:14:40,211 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:14:41,941 [INFO] Swap sent: 2uADgNQCPJSJEKG48hpZsdaMT85CZiht6HBwPc42ppwwT35iCA2uRJp2X2dP4iLjjTJ7khistH9Epj23hscxL3Nr
+2025-09-06 06:14:41,942 [INFO] Recorded spend $0.01; last24h total=$0.29
+2025-09-06 06:14:41,942 [WARNING] [BUY] success 2uADgNQCPJSJEKG48hpZsdaMT85CZiht6HBwPc42ppwwT35iCA2uRJp2X2dP4iLjjTJ7khistH9Epj23hscxL3Nr
+2025-09-06 06:15:02,947 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:15:03,290 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:15:04,876 [INFO] Swap sent: bUZWeG7s87bdCCEXy69uQqH7Gh6pzwYBTf9PuFBmfFKYV5wgRKk7c6yR84y7m7rBk2EiZpmHfiqxMbqxTUmrrkd
+2025-09-06 06:15:04,876 [INFO] Recorded spend $0.01; last24h total=$0.30
+2025-09-06 06:15:04,876 [WARNING] [BUY] success bUZWeG7s87bdCCEXy69uQqH7Gh6pzwYBTf9PuFBmfFKYV5wgRKk7c6yR84y7m7rBk2EiZpmHfiqxMbqxTUmrrkd
+2025-09-06 06:15:25,881 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:15:26,622 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 06:15:27,624 [INFO] Swap sent: 4tdqcrWcp1zBks9GQDZA1atuB4W2hTW7vUEdXXFyPqNoPcb2acqP6Y91eqiHLCYa2BTjfURszokhKHNSZB3h8qc6
+2025-09-06 06:15:27,624 [INFO] Recorded spend $0.01; last24h total=$0.31
+2025-09-06 06:15:27,624 [WARNING] [BUY] success 4tdqcrWcp1zBks9GQDZA1atuB4W2hTW7vUEdXXFyPqNoPcb2acqP6Y91eqiHLCYa2BTjfURszokhKHNSZB3h8qc6
+2025-09-06 06:15:48,629 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:15:49,605 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 06:15:51,085 [INFO] Swap sent: 3jvJWprzcix87bhXkj8LpozecKR33BV5ZYBNxhLv3AmbhF3pBzpnc22xLVXHApSSjSv6wvZAzZAPcYoesAFNqHXf
+2025-09-06 06:15:51,085 [INFO] Recorded spend $0.01; last24h total=$0.32
+2025-09-06 06:15:51,086 [WARNING] [BUY] success 3jvJWprzcix87bhXkj8LpozecKR33BV5ZYBNxhLv3AmbhF3pBzpnc22xLVXHApSSjSv6wvZAzZAPcYoesAFNqHXf
+2025-09-06 06:16:12,090 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:16:12,303 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 06:16:13,288 [INFO] Swap sent: 4gKbPB8WkwfXGJFqia9xyAiEkBJFapAcbZrPWVoj5gwd8NFC6Z4uuMh3VjGRQgHiv3GX6xiJHGG9uU6ZexJsvBdn
+2025-09-06 06:16:13,288 [INFO] Recorded spend $0.01; last24h total=$0.33
+2025-09-06 06:16:13,288 [WARNING] [BUY] success 4gKbPB8WkwfXGJFqia9xyAiEkBJFapAcbZrPWVoj5gwd8NFC6Z4uuMh3VjGRQgHiv3GX6xiJHGG9uU6ZexJsvBdn
+2025-09-06 06:16:34,294 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:16:35,243 [INFO] Requesting swap quote input_amount_raw=9997 slippage_bps=500
+2025-09-06 06:16:36,111 [INFO] Swap sent: 3mpaUaw9nUqyiC4sfVxQaL37TUxvFr7uNshu17Yn3LqNC6sYL5dFHtG2TtCQsqsgEbcyNL4UoPpnPzmBksRycg5
+2025-09-06 06:16:36,111 [INFO] Recorded spend $0.01; last24h total=$0.34
+2025-09-06 06:16:36,112 [WARNING] [BUY] success 3mpaUaw9nUqyiC4sfVxQaL37TUxvFr7uNshu17Yn3LqNC6sYL5dFHtG2TtCQsqsgEbcyNL4UoPpnPzmBksRycg5
+2025-09-06 06:16:57,113 [INFO] Scheduled buy attempt: $0.01
+2025-09-06 06:16:58,260 [INFO] Requesting swap quote input_amount_raw=9998 slippage_bps=500
+2025-09-06 06:17:00,634 [INFO] Swap sent: 22LYddy6m9KjZ72rcC2SufAnRiG6RWeGxdSiwamwLUf2fo6PAzHi6h5mMJJ5bzX4VRTeEUJdpWVEccmUDVgznwZv
+2025-09-06 06:17:00,635 [INFO] Recorded spend $0.01; last24h total=$0.35
+2025-09-06 06:17:00,635 [WARNING] [BUY] success 22LYddy6m9KjZ72rcC2SufAnRiG6RWeGxdSiwamwLUf2fo6PAzHi6h5mMJJ5bzX4VRTeEUJdpWVEccmUDVgznwZv
