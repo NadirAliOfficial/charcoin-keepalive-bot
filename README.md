@@ -9,5 +9,5 @@ If no activity is detected within 24h, the bot automatically performs a **tiny b
 - If no trades → executes a micro-buy using your Solana wallet  
 - Configurable buy amount, slippage, and check interval  
 - Uses **Dexscreener free API** + **Jupiter swap API** (no extra cost)  
-- Prevents graphs & data in the DAPP from collapsing  
-
+- Prevents graphs & data in the DAPP from collapsing
+<!-- updated: 2026-01-17-02 -->
