@@ -10,4 +10,4 @@ If no activity is detected within 24h, the bot automatically performs a **tiny b
 - Configurable buy amount, slippage, and check interval  
 - Uses **Dexscreener free API** + **Jupiter swap API** (no extra cost)  
 - Prevents graphs & data in the DAPP from collapsing
-<!-- updated: 2025-11-20 -->
+<!-- updated: 2026-06-17 -->
