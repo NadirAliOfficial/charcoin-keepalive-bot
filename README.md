@@ -18,7 +18,7 @@ pip install -r requirements.txt
 cp .env.example .env   # then fill in your wallet details
 python bot.py
 ```
-The bot runs in a loop and re-checks every 6 hours.
+The bot runs in a loop and makes a micro-buy every 6 hours.
 
 ## Configuration
 Set these in `.env`:
@@ -31,5 +31,5 @@ Set these in `.env`:
 | `CHAR_MINT` | CHAR mint address | Token to keep active |
 | `INPUT_MINT` | USDT mint address | Token spent on the buy |
 | `MICRO_BUY_USD` | `0.01` | Size of the micro-buy in USD |
-| `FALLBACK_BUY_USD` | `0.10` | Size used when the micro-buy cannot be quoted |
+| `FALLBACK_BUY_USD` | `0.10` | Size of the retry buy if the micro-buy fails |
 | `SLIPPAGE_BPS` | `500` | Slippage tolerance in basis points |
